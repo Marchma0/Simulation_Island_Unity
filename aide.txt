@@ -1,0 +1,4 @@
+0. Avoir/Installer unity
+1. Télécharger la version la plus récente sur : https://drive.google.com/drive/folders/14nTR-KbM-V7d0s2rnr4ybcyyxs6_djVt?usp=sharing
+2. Ouvrir avec unity.
+3. Appuyer sur play. (peut modifier les paramètres avant si vous voulez)

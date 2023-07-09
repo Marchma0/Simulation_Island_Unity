@@ -1,0 +1,3502 @@
+GRAPH : 
+
+
+Jour : 1
+Predators = 6
+Pray = 7
+Tree = 49
+money : 0
+
+
+Jour : 2
+Predators = 6
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 3
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 4
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 5
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 6
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 7
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 8
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 9
+Predators = 7
+Pray = 6
+Tree = 49
+money : 0
+
+
+Jour : 10
+Predators = 7
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 11
+Predators = 8
+Pray = 5
+Tree = 49
+money : 0
+
+
+Jour : 12
+Predators = 8
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 13
+Predators = 8
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 14
+Predators = 8
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 15
+Predators = 9
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 16
+Predators = 9
+Pray = 4
+Tree = 49
+money : 0
+
+
+Jour : 17
+Predators = 8
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 18
+Predators = 8
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 19
+Predators = 7
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 20
+Predators = 7
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 21
+Predators = 5
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 22
+Predators = 5
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 23
+Predators = 5
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 24
+Predators = 5
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 25
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 26
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 27
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 28
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 29
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 30
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 31
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 32
+Predators = 4
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 33
+Predators = 3
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 34
+Predators = 3
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 35
+Predators = 3
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 36
+Predators = 3
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 37
+Predators = 2
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 38
+Predators = 2
+Pray = 3
+Tree = 49
+money : 0
+
+
+Jour : 39
+Predators = 2
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 40
+Predators = 2
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 41
+Predators = 1
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 42
+Predators = 1
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 43
+Predators = 1
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 44
+Predators = 1
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 45
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 46
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 47
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 48
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 49
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 50
+Predators = 0
+Pray = 1
+Tree = 49
+money : 12
+
+
+Jour : 51
+Predators = 0
+Pray = 1
+Tree = 49
+money : 12
+
+
+Jour : 52
+Predators = 0
+Pray = 1
+Tree = 49
+money : 12
+
+
+Jour : 53
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 54
+Predators = 0
+Pray = 2
+Tree = 49
+money : 12
+
+
+Jour : 55
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 56
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 57
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 58
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 59
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 60
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 61
+Predators = 0
+Pray = 6
+Tree = 49
+money : 12
+
+
+Jour : 62
+Predators = 0
+Pray = 6
+Tree = 49
+money : 12
+
+
+Jour : 63
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 64
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 65
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 66
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 67
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 68
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 69
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 70
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 71
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 72
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 73
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 74
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 75
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 76
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 77
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 78
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 79
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 80
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 81
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 82
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 83
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 84
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 85
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 86
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 87
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 88
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 89
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 90
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 91
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 92
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 93
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 94
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 95
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 96
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 97
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 98
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 99
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 100
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 101
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 102
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 103
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 104
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 105
+Predators = 0
+Pray = 3
+Tree = 49
+money : 12
+
+
+Jour : 106
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 107
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 108
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 109
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 110
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 111
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 112
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 113
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 114
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 115
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 116
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 117
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 118
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 119
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 120
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 121
+Predators = 0
+Pray = 4
+Tree = 49
+money : 12
+
+
+Jour : 122
+Predators = 0
+Pray = 6
+Tree = 49
+money : 12
+
+
+Jour : 123
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 124
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 125
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 126
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 127
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 128
+Predators = 0
+Pray = 5
+Tree = 49
+money : 12
+
+
+Jour : 129
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 130
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 131
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 132
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 133
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 134
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 135
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 136
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 137
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 138
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 139
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 140
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 141
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 142
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 143
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 144
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 145
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 146
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 147
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 148
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 149
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 150
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 151
+Predators = 0
+Pray = 4
+Tree = 49
+money : 68
+
+
+Jour : 152
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 153
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 154
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 155
+Predators = 0
+Pray = 5
+Tree = 49
+money : 68
+
+
+Jour : 156
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 157
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 158
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 159
+Predators = 0
+Pray = 6
+Tree = 49
+money : 68
+
+
+Jour : 160
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 161
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 162
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 163
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 164
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 165
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 166
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 167
+Predators = 0
+Pray = 7
+Tree = 49
+money : 68
+
+
+Jour : 168
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 169
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 170
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 171
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 172
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 173
+Predators = 0
+Pray = 8
+Tree = 49
+money : 68
+
+
+Jour : 174
+Predators = 0
+Pray = 9
+Tree = 49
+money : 68
+
+
+Jour : 175
+Predators = 0
+Pray = 9
+Tree = 49
+money : 68
+
+
+Jour : 176
+Predators = 0
+Pray = 11
+Tree = 49
+money : 68
+
+
+Jour : 177
+Predators = 0
+Pray = 11
+Tree = 49
+money : 68
+
+
+Jour : 178
+Predators = 0
+Pray = 13
+Tree = 49
+money : 68
+
+
+Jour : 179
+Predators = 0
+Pray = 13
+Tree = 49
+money : 68
+
+
+Jour : 180
+Predators = 0
+Pray = 14
+Tree = 49
+money : 68
+
+
+Jour : 181
+Predators = 0
+Pray = 14
+Tree = 49
+money : 68
+
+
+Jour : 182
+Predators = 0
+Pray = 16
+Tree = 49
+money : 68
+
+
+Jour : 183
+Predators = 0
+Pray = 16
+Tree = 49
+money : 68
+
+
+Jour : 184
+Predators = 0
+Pray = 20
+Tree = 49
+money : 68
+
+
+Jour : 185
+Predators = 0
+Pray = 20
+Tree = 49
+money : 68
+
+
+Jour : 186
+Predators = 0
+Pray = 22
+Tree = 49
+money : 68
+
+
+Jour : 187
+Predators = 0
+Pray = 22
+Tree = 49
+money : 68
+
+
+Jour : 188
+Predators = 0
+Pray = 24
+Tree = 49
+money : 68
+
+
+Jour : 189
+Predators = 0
+Pray = 24
+Tree = 49
+money : 68
+
+
+Jour : 190
+Predators = 0
+Pray = 25
+Tree = 49
+money : 68
+
+
+Jour : 191
+Predators = 0
+Pray = 25
+Tree = 49
+money : 68
+
+
+Jour : 192
+Predators = 0
+Pray = 26
+Tree = 49
+money : 68
+
+
+Jour : 193
+Predators = 0
+Pray = 26
+Tree = 49
+money : 68
+
+
+Jour : 194
+Predators = 0
+Pray = 28
+Tree = 49
+money : 68
+
+
+Jour : 195
+Predators = 0
+Pray = 28
+Tree = 49
+money : 68
+
+
+Jour : 196
+Predators = 0
+Pray = 30
+Tree = 49
+money : 68
+
+
+Jour : 197
+Predators = 0
+Pray = 30
+Tree = 49
+money : 68
+
+
+Jour : 198
+Predators = 0
+Pray = 29
+Tree = 49
+money : 68
+
+
+Jour : 199
+Predators = 0
+Pray = 29
+Tree = 49
+money : 68
+
+
+Jour : 200
+Predators = 0
+Pray = 29
+Tree = 49
+money : 68
+
+
+Jour : 201
+Predators = 0
+Pray = 29
+Tree = 49
+money : 68
+
+
+Jour : 202
+Predators = 0
+Pray = 32
+Tree = 49
+money : 68
+
+
+Jour : 203
+Predators = 0
+Pray = 32
+Tree = 49
+money : 68
+
+
+Jour : 204
+Predators = 0
+Pray = 33
+Tree = 49
+money : 68
+
+
+Jour : 205
+Predators = 0
+Pray = 33
+Tree = 49
+money : 68
+
+
+Jour : 206
+Predators = 0
+Pray = 33
+Tree = 48
+money : 68
+
+
+Jour : 207
+Predators = 0
+Pray = 33
+Tree = 48
+money : 68
+
+
+Jour : 208
+Predators = 0
+Pray = 31
+Tree = 45
+money : 68
+
+
+Jour : 209
+Predators = 0
+Pray = 31
+Tree = 45
+money : 68
+
+
+Jour : 210
+Predators = 0
+Pray = 30
+Tree = 42
+money : 68
+
+
+Jour : 211
+Predators = 0
+Pray = 30
+Tree = 42
+money : 68
+
+
+Jour : 212
+Predators = 0
+Pray = 30
+Tree = 38
+money : 68
+
+
+Jour : 213
+Predators = 0
+Pray = 30
+Tree = 38
+money : 68
+
+
+Jour : 214
+Predators = 0
+Pray = 29
+Tree = 35
+money : 68
+
+
+Jour : 215
+Predators = 0
+Pray = 29
+Tree = 35
+money : 68
+
+
+Jour : 216
+Predators = 0
+Pray = 26
+Tree = 35
+money : 68
+
+
+Jour : 217
+Predators = 0
+Pray = 26
+Tree = 35
+money : 68
+
+
+Jour : 218
+Predators = 0
+Pray = 30
+Tree = 35
+money : 68
+
+
+Jour : 219
+Predators = 0
+Pray = 30
+Tree = 35
+money : 68
+
+
+Jour : 220
+Predators = 0
+Pray = 32
+Tree = 35
+money : 68
+
+
+Jour : 221
+Predators = 0
+Pray = 32
+Tree = 35
+money : 68
+
+
+Jour : 222
+Predators = 0
+Pray = 26
+Tree = 34
+money : 68
+
+
+Jour : 223
+Predators = 0
+Pray = 26
+Tree = 34
+money : 68
+
+
+Jour : 224
+Predators = 0
+Pray = 23
+Tree = 32
+money : 68
+
+
+Jour : 225
+Predators = 0
+Pray = 23
+Tree = 32
+money : 68
+
+
+Jour : 226
+Predators = 0
+Pray = 21
+Tree = 31
+money : 68
+
+
+Jour : 227
+Predators = 0
+Pray = 21
+Tree = 31
+money : 68
+
+
+Jour : 228
+Predators = 0
+Pray = 20
+Tree = 30
+money : 68
+
+
+Jour : 229
+Predators = 0
+Pray = 20
+Tree = 30
+money : 68
+
+
+Jour : 230
+Predators = 0
+Pray = 23
+Tree = 29
+money : 68
+
+
+Jour : 231
+Predators = 0
+Pray = 23
+Tree = 29
+money : 68
+
+
+Jour : 232
+Predators = 0
+Pray = 26
+Tree = 29
+money : 68
+
+
+Jour : 233
+Predators = 0
+Pray = 26
+Tree = 29
+money : 68
+
+
+Jour : 234
+Predators = 0
+Pray = 31
+Tree = 29
+money : 68
+
+
+Jour : 235
+Predators = 0
+Pray = 31
+Tree = 29
+money : 68
+
+
+Jour : 236
+Predators = 0
+Pray = 31
+Tree = 29
+money : 68
+
+
+Jour : 237
+Predators = 0
+Pray = 31
+Tree = 28
+money : 68
+
+
+Jour : 238
+Predators = 0
+Pray = 31
+Tree = 28
+money : 68
+
+
+Jour : 239
+Predators = 0
+Pray = 31
+Tree = 26
+money : 68
+
+
+Jour : 240
+Predators = 0
+Pray = 29
+Tree = 26
+money : 68
+
+
+Jour : 241
+Predators = 0
+Pray = 29
+Tree = 25
+money : 68
+
+
+Jour : 242
+Predators = 0
+Pray = 28
+Tree = 23
+money : 68
+
+
+Jour : 243
+Predators = 0
+Pray = 28
+Tree = 19
+money : 68
+
+
+Jour : 244
+Predators = 0
+Pray = 32
+Tree = 17
+money : 68
+
+
+Jour : 245
+Predators = 0
+Pray = 32
+Tree = 14
+money : 68
+
+
+Jour : 246
+Predators = 0
+Pray = 33
+Tree = 14
+money : 68
+
+
+Jour : 247
+Predators = 0
+Pray = 33
+Tree = 10
+money : 68
+
+
+Jour : 248
+Predators = 0
+Pray = 33
+Tree = 10
+money : 68
+
+
+Jour : 249
+Predators = 0
+Pray = 33
+Tree = 10
+money : 68
+
+
+Jour : 250
+Predators = 0
+Pray = 33
+Tree = 8
+money : 68
+
+
+Jour : 251
+Predators = 0
+Pray = 33
+Tree = 8
+money : 99
+
+
+Jour : 252
+Predators = 0
+Pray = 33
+Tree = 8
+money : 99
+
+
+Jour : 253
+Predators = 0
+Pray = 33
+Tree = 7
+money : 99
+
+
+Jour : 254
+Predators = 0
+Pray = 33
+Tree = 7
+money : 99
+
+
+Jour : 255
+Predators = 0
+Pray = 33
+Tree = 6
+money : 99
+
+
+Jour : 256
+Predators = 0
+Pray = 32
+Tree = 6
+money : 99
+
+
+Jour : 257
+Predators = 0
+Pray = 32
+Tree = 4
+money : 99
+
+
+Jour : 258
+Predators = 0
+Pray = 29
+Tree = 4
+money : 99
+
+
+Jour : 259
+Predators = 0
+Pray = 29
+Tree = 1
+money : 99
+
+
+Jour : 260
+Predators = 0
+Pray = 26
+Tree = 1
+money : 99
+
+
+Jour : 261
+Predators = 0
+Pray = 26
+Tree = 1
+money : 99
+
+
+Jour : 262
+Predators = 0
+Pray = 25
+Tree = 0
+money : 99
+
+
+Jour : 263
+Predators = 0
+Pray = 25
+Tree = 0
+money : 99
+
+
+Jour : 264
+Predators = 0
+Pray = 25
+Tree = 0
+money : 99
+
+
+Jour : 265
+Predators = 0
+Pray = 25
+Tree = 0
+money : 99
+
+
+Jour : 266
+Predators = 0
+Pray = 24
+Tree = 1
+money : 99
+
+
+Jour : 267
+Predators = 0
+Pray = 24
+Tree = 1
+money : 99
+
+
+Jour : 268
+Predators = 0
+Pray = 20
+Tree = 1
+money : 99
+
+
+Jour : 269
+Predators = 0
+Pray = 20
+Tree = 1
+money : 99
+
+
+Jour : 270
+Predators = 0
+Pray = 15
+Tree = 1
+money : 99
+
+
+Jour : 271
+Predators = 0
+Pray = 15
+Tree = 2
+money : 99
+
+
+Jour : 272
+Predators = 0
+Pray = 12
+Tree = 2
+money : 99
+
+
+Jour : 273
+Predators = 0
+Pray = 12
+Tree = 2
+money : 99
+
+
+Jour : 274
+Predators = 0
+Pray = 8
+Tree = 2
+money : 99
+
+
+Jour : 275
+Predators = 0
+Pray = 8
+Tree = 2
+money : 99
+
+
+Jour : 276
+Predators = 0
+Pray = 7
+Tree = 3
+money : 99
+
+
+Jour : 277
+Predators = 0
+Pray = 7
+Tree = 3
+money : 99
+
+
+Jour : 278
+Predators = 0
+Pray = 8
+Tree = 3
+money : 99
+
+
+Jour : 279
+Predators = 0
+Pray = 8
+Tree = 3
+money : 99
+
+
+Jour : 280
+Predators = 0
+Pray = 8
+Tree = 3
+money : 99
+
+
+Jour : 281
+Predators = 0
+Pray = 8
+Tree = 3
+money : 99
+
+
+Jour : 282
+Predators = 0
+Pray = 7
+Tree = 3
+money : 99
+
+
+Jour : 283
+Predators = 0
+Pray = 7
+Tree = 3
+money : 99
+
+
+Jour : 284
+Predators = 0
+Pray = 5
+Tree = 3
+money : 99
+
+
+Jour : 285
+Predators = 0
+Pray = 5
+Tree = 3
+money : 99
+
+
+Jour : 286
+Predators = 0
+Pray = 5
+Tree = 3
+money : 99
+
+
+Jour : 287
+Predators = 0
+Pray = 5
+Tree = 3
+money : 99
+
+
+Jour : 288
+Predators = 0
+Pray = 4
+Tree = 3
+money : 99
+
+
+Jour : 289
+Predators = 0
+Pray = 4
+Tree = 3
+money : 99
+
+
+Jour : 290
+Predators = 0
+Pray = 5
+Tree = 3
+money : 99
+
+
+Jour : 291
+Predators = 0
+Pray = 5
+Tree = 4
+money : 99
+
+
+Jour : 292
+Predators = 0
+Pray = 5
+Tree = 4
+money : 99
+
+
+Jour : 293
+Predators = 0
+Pray = 5
+Tree = 4
+money : 99
+
+
+Jour : 294
+Predators = 0
+Pray = 5
+Tree = 4
+money : 99
+
+
+Jour : 295
+Predators = 0
+Pray = 5
+Tree = 4
+money : 99
+
+
+Jour : 296
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 297
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 298
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 299
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 300
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 301
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 302
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 303
+Predators = 0
+Pray = 6
+Tree = 5
+money : 99
+
+
+Jour : 304
+Predators = 0
+Pray = 7
+Tree = 5
+money : 99
+
+
+Jour : 305
+Predators = 0
+Pray = 7
+Tree = 5
+money : 99
+
+
+Jour : 306
+Predators = 0
+Pray = 7
+Tree = 5
+money : 99
+
+
+Jour : 307
+Predators = 0
+Pray = 7
+Tree = 5
+money : 99
+
+
+Jour : 308
+Predators = 0
+Pray = 9
+Tree = 5
+money : 99
+
+
+Jour : 309
+Predators = 0
+Pray = 9
+Tree = 5
+money : 99
+
+
+Jour : 310
+Predators = 0
+Pray = 11
+Tree = 6
+money : 99
+
+
+Jour : 311
+Predators = 0
+Pray = 11
+Tree = 6
+money : 99
+
+
+Jour : 312
+Predators = 0
+Pray = 14
+Tree = 6
+money : 99
+
+
+Jour : 313
+Predators = 0
+Pray = 14
+Tree = 6
+money : 99
+
+
+Jour : 314
+Predators = 0
+Pray = 16
+Tree = 6
+money : 99
+
+
+Jour : 315
+Predators = 0
+Pray = 16
+Tree = 7
+money : 99
+
+
+Jour : 316
+Predators = 0
+Pray = 16
+Tree = 7
+money : 99
+
+
+Jour : 317
+Predators = 0
+Pray = 16
+Tree = 7
+money : 99
+
+
+Jour : 318
+Predators = 0
+Pray = 18
+Tree = 7
+money : 117
+
+
+Jour : 319
+Predators = 0
+Pray = 18
+Tree = 7
+money : 117
+
+
+Jour : 320
+Predators = 0
+Pray = 22
+Tree = 8
+money : 117
+
+
+Jour : 321
+Predators = 0
+Pray = 22
+Tree = 8
+money : 117
+
+
+Jour : 322
+Predators = 0
+Pray = 27
+Tree = 8
+money : 117
+
+
+Jour : 323
+Predators = 0
+Pray = 27
+Tree = 8
+money : 117
+
+
+Jour : 324
+Predators = 0
+Pray = 29
+Tree = 8
+money : 117
+
+
+Jour : 325
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 326
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 327
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 328
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 329
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 330
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 331
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 332
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 333
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 334
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 335
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 336
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 337
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 338
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 339
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 340
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 341
+Predators = 0
+Pray = 36
+Tree = 9
+money : 117
+
+
+Jour : 342
+Predators = 0
+Pray = 35
+Tree = 9
+money : 117
+
+
+Jour : 343
+Predators = 0
+Pray = 34
+Tree = 9
+money : 117
+
+
+Jour : 344
+Predators = 0
+Pray = 34
+Tree = 9
+money : 117
+
+
+Jour : 345
+Predators = 0
+Pray = 34
+Tree = 9
+money : 117
+
+
+Jour : 346
+Predators = 0
+Pray = 33
+Tree = 9
+money : 117
+
+
+Jour : 347
+Predators = 0
+Pray = 33
+Tree = 9
+money : 117
+
+
+Jour : 348
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 349
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 350
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 351
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 352
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 353
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 354
+Predators = 0
+Pray = 26
+Tree = 9
+money : 117
+
+
+Jour : 355
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 356
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 357
+Predators = 0
+Pray = 33
+Tree = 9
+money : 117
+
+
+Jour : 358
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 359
+Predators = 0
+Pray = 33
+Tree = 9
+money : 117
+
+
+Jour : 360
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 361
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 362
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 363
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 364
+Predators = 0
+Pray = 25
+Tree = 9
+money : 117
+
+
+Jour : 365
+Predators = 0
+Pray = 25
+Tree = 9
+money : 117
+
+
+Jour : 366
+Predators = 0
+Pray = 24
+Tree = 9
+money : 117
+
+
+Jour : 367
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 368
+Predators = 0
+Pray = 27
+Tree = 9
+money : 117
+
+
+Jour : 369
+Predators = 0
+Pray = 26
+Tree = 9
+money : 117
+
+
+Jour : 370
+Predators = 0
+Pray = 26
+Tree = 9
+money : 117
+
+
+Jour : 371
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 372
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 373
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 374
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 375
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 376
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 377
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 378
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 379
+Predators = 0
+Pray = 30
+Tree = 9
+money : 117
+
+
+Jour : 380
+Predators = 0
+Pray = 26
+Tree = 9
+money : 117
+
+
+Jour : 381
+Predators = 0
+Pray = 26
+Tree = 9
+money : 117
+
+
+Jour : 382
+Predators = 0
+Pray = 24
+Tree = 9
+money : 117
+
+
+Jour : 383
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 384
+Predators = 0
+Pray = 28
+Tree = 9
+money : 117
+
+
+Jour : 385
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 386
+Predators = 0
+Pray = 29
+Tree = 9
+money : 117
+
+
+Jour : 387
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 388
+Predators = 0
+Pray = 31
+Tree = 9
+money : 117
+
+
+Jour : 389
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 390
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 391
+Predators = 0
+Pray = 32
+Tree = 9
+money : 117
+
+
+Jour : 392
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 393
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 394
+Predators = 0
+Pray = 31
+Tree = 9
+money : 192
+
+
+Jour : 395
+Predators = 0
+Pray = 31
+Tree = 9
+money : 192
+
+
+Jour : 396
+Predators = 0
+Pray = 27
+Tree = 9
+money : 192
+
+
+Jour : 397
+Predators = 0
+Pray = 27
+Tree = 9
+money : 192
+
+
+Jour : 398
+Predators = 0
+Pray = 25
+Tree = 9
+money : 192
+
+
+Jour : 399
+Predators = 0
+Pray = 27
+Tree = 9
+money : 192
+
+
+Jour : 400
+Predators = 0
+Pray = 26
+Tree = 9
+money : 192
+
+
+Jour : 401
+Predators = 0
+Pray = 29
+Tree = 9
+money : 192
+
+
+Jour : 402
+Predators = 0
+Pray = 28
+Tree = 9
+money : 192
+
+
+Jour : 403
+Predators = 0
+Pray = 28
+Tree = 9
+money : 192
+
+
+Jour : 404
+Predators = 0
+Pray = 25
+Tree = 9
+money : 192
+
+
+Jour : 405
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 406
+Predators = 0
+Pray = 31
+Tree = 9
+money : 192
+
+
+Jour : 407
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 408
+Predators = 0
+Pray = 29
+Tree = 9
+money : 192
+
+
+Jour : 409
+Predators = 0
+Pray = 29
+Tree = 9
+money : 192
+
+
+Jour : 410
+Predators = 0
+Pray = 27
+Tree = 9
+money : 192
+
+
+Jour : 411
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 412
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 413
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 414
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 415
+Predators = 0
+Pray = 29
+Tree = 9
+money : 192
+
+
+Jour : 416
+Predators = 0
+Pray = 28
+Tree = 9
+money : 192
+
+
+Jour : 417
+Predators = 0
+Pray = 34
+Tree = 9
+money : 192
+
+
+Jour : 418
+Predators = 0
+Pray = 33
+Tree = 9
+money : 192
+
+
+Jour : 419
+Predators = 0
+Pray = 34
+Tree = 9
+money : 192
+
+
+Jour : 420
+Predators = 0
+Pray = 33
+Tree = 9
+money : 192
+
+
+Jour : 421
+Predators = 0
+Pray = 33
+Tree = 9
+money : 192
+
+
+Jour : 422
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 423
+Predators = 0
+Pray = 32
+Tree = 9
+money : 192
+
+
+Jour : 424
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 425
+Predators = 0
+Pray = 30
+Tree = 9
+money : 192
+
+
+Jour : 426
+Predators = 0
+Pray = 29
+Tree = 10
+money : 192
+
+
+Jour : 427
+Predators = 0
+Pray = 29
+Tree = 10
+money : 192
+
+
+Jour : 428
+Predators = 0
+Pray = 25
+Tree = 10
+money : 192
+
+
+Jour : 429
+Predators = 0
+Pray = 31
+Tree = 10
+money : 192
+
+
+Jour : 430
+Predators = 0
+Pray = 30
+Tree = 10
+money : 192
+
+
+Jour : 431
+Predators = 0
+Pray = 32
+Tree = 11
+money : 192
+
+
+Jour : 432
+Predators = 0
+Pray = 32
+Tree = 11
+money : 192
+
+
+Jour : 433
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 434
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 435
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 436
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 437
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 438
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 439
+Predators = 0
+Pray = 31
+Tree = 11
+money : 192
+
+
+Jour : 440
+Predators = 0
+Pray = 28
+Tree = 12
+money : 192
+
+
+Jour : 441
+Predators = 0
+Pray = 27
+Tree = 12
+money : 192
+
+
+Jour : 442
+Predators = 0
+Pray = 26
+Tree = 12
+money : 192
+
+
+Jour : 443
+Predators = 0
+Pray = 25
+Tree = 12
+money : 192
+
+
+Jour : 444
+Predators = 0
+Pray = 25
+Tree = 12
+money : 192
+
+
+Jour : 445
+Predators = 0
+Pray = 26
+Tree = 13
+money : 192
+
+
+Jour : 446
+Predators = 0
+Pray = 26
+Tree = 13
+money : 192
+
+
+Jour : 447
+Predators = 0
+Pray = 28
+Tree = 13
+money : 192
+
+
+Jour : 448
+Predators = 0
+Pray = 28
+Tree = 13
+money : 192
+
+
+Jour : 449
+Predators = 0
+Pray = 27
+Tree = 13
+money : 192
+
+
+Jour : 450
+Predators = 0
+Pray = 27
+Tree = 13
+money : 192
+
+
+Jour : 451
+Predators = 0
+Pray = 30
+Tree = 13
+money : 192
+
+
+Jour : 452
+Predators = 0
+Pray = 30
+Tree = 13
+money : 192
+
+
+Jour : 453
+Predators = 0
+Pray = 30
+Tree = 13
+money : 192
+
+
+Jour : 454
+Predators = 0
+Pray = 30
+Tree = 13
+money : 192
+
+
+Jour : 455
+Predators = 0
+Pray = 29
+Tree = 14
+money : 192
+
+
+Jour : 456
+Predators = 0
+Pray = 29
+Tree = 14
+money : 192
+
+
+Jour : 457
+Predators = 0
+Pray = 27
+Tree = 14
+money : 192
+
+
+Jour : 458
+Predators = 0
+Pray = 27
+Tree = 14
+money : 192
+
+
+Jour : 459
+Predators = 0
+Pray = 26
+Tree = 14
+money : 192
+
+
+Jour : 460
+Predators = 0
+Pray = 26
+Tree = 14
+money : 192
+
+
+Jour : 461
+Predators = 0
+Pray = 29
+Tree = 14
+money : 192
+
+
+Jour : 462
+Predators = 0
+Pray = 29
+Tree = 14
+money : 192
+
+
+Jour : 463
+Predators = 0
+Pray = 30
+Tree = 14
+money : 192
+
+
+Jour : 464
+Predators = 0
+Pray = 30
+Tree = 14
+money : 192
+
+
+Jour : 465
+Predators = 0
+Pray = 32
+Tree = 14
+money : 192
+
+
+Jour : 466
+Predators = 0
+Pray = 32
+Tree = 14
+money : 192
+
+
+Jour : 467
+Predators = 0
+Pray = 29
+Tree = 14
+money : 192
+
+
+Jour : 468
+Predators = 0
+Pray = 28
+Tree = 14
+money : 192
+
+
+Jour : 469
+Predators = 0
+Pray = 27
+Tree = 14
+money : 192
+
+
+Jour : 470
+Predators = 0
+Pray = 27
+Tree = 15
+money : 192
+
+
+Jour : 471
+Predators = 0
+Pray = 30
+Tree = 15
+money : 192
+
+
+Jour : 472
+Predators = 0
+Pray = 30
+Tree = 15
+money : 192
+
+
+Jour : 473
+Predators = 0
+Pray = 34
+Tree = 15
+money : 192
+
+
+Jour : 474
+Predators = 0
+Pray = 34
+Tree = 15
+money : 192
+
+
+Jour : 475
+Predators = 0
+Pray = 34
+Tree = 15
+money : 192
+
+
+Jour : 476
+Predators = 0
+Pray = 33
+Tree = 15
+money : 192
+
+
+Jour : 477
+Predators = 0
+Pray = 33
+Tree = 15
+money : 192
+
+
+Jour : 478
+Predators = 0
+Pray = 33
+Tree = 15
+money : 192
+
+
+Jour : 479
+Predators = 0
+Pray = 33
+Tree = 15
+money : 192
+
+
+Jour : 480
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 481
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 482
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 483
+Predators = 0
+Pray = 29
+Tree = 16
+money : 192
+
+
+Jour : 484
+Predators = 0
+Pray = 29
+Tree = 16
+money : 192
+
+
+Jour : 485
+Predators = 0
+Pray = 25
+Tree = 16
+money : 192
+
+
+Jour : 486
+Predators = 0
+Pray = 25
+Tree = 16
+money : 192
+
+
+Jour : 487
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 488
+Predators = 0
+Pray = 31
+Tree = 16
+money : 192
+
+
+Jour : 489
+Predators = 0
+Pray = 29
+Tree = 16
+money : 192
+
+
+Jour : 490
+Predators = 0
+Pray = 29
+Tree = 16
+money : 192
+
+
+Jour : 491
+Predators = 0
+Pray = 26
+Tree = 16
+money : 192
+
+
+Jour : 492
+Predators = 0
+Pray = 26
+Tree = 16
+money : 192
+
+
+Jour : 493
+Predators = 0
+Pray = 27
+Tree = 16
+money : 192
+
+
+Jour : 494
+Predators = 0
+Pray = 27
+Tree = 16
+money : 192
+
+
+Jour : 495
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 496
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 497
+Predators = 0
+Pray = 35
+Tree = 16
+money : 192
+
+
+Jour : 498
+Predators = 0
+Pray = 35
+Tree = 16
+money : 192
+
+
+Jour : 499
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
+
+Jour : 500
+Predators = 0
+Pray = 32
+Tree = 16
+money : 192
+
